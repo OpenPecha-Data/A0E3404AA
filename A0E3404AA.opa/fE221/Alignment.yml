@@ -1,0 +1,22 @@
+segment_sources:
+  I897BB030:
+    type: origin_type
+    relation: translation
+    language: en
+  I56A973CF:
+    type: origin_type
+    relation: translation
+    language: es
+  IC9C303E9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d82341748ccb43deb965e884b5e62fd0:
+    I897BB030: 4977e8f817a440f99b3604c165415bbf
+    I56A973CF: b5ce041eb8d64f48ac02b9401fb659fc
+    IC9C303E9: 1f6db9d2e60e4907af5699b4176624d6
+  65784a0461994c5da05a93bff1eacefb:
+    I897BB030: ccb28c7fe18742b1af439a567f08917b
+    I56A973CF: 476543c2ce564ff696df9c846f829364
+    IC9C303E9: 2105fa36c4bd48adb89bc248194eb00e
